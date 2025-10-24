@@ -1,2 +1,2 @@
-# ozel-tablo
+# ozeltablo
 Sanatla teknolojiyi birleştiren özel tablo koleksiyonları.
